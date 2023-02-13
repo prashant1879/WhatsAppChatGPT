@@ -1,5 +1,7 @@
 # WhatsAppChatGPT : Whatsapp Chatbot using OpenAPI ChatGPT
 
+![WhatsAppChatGPT](Whatsapp_Chatbot_using_OpenAPI_ChatGPT.png)
+
 This project is a Whatsapp Chatbot using OpenAPI's ChatGPT. When someone send message using `!chatgpt ` will generate response from OpenAPI ChatGPT.
 You can modify prefix of messages. This just need to prevent instant reponse of actual chat in whatsapp. 
 I had create this example on Ubuntu 20.04 with Node v16.19.0.
