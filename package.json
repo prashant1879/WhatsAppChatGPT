@@ -1,0 +1,31 @@
+{
+  "name": "whatsapp-connect-with-chatgpt-whatsapp-chatgpt-bot-whatsappchatgpt",
+  "version": "1.0.0",
+  "description": "A ChatGPT integrate with WhatsApp.",
+  "main": "server.js",
+  "scripts": {},
+  "author": "prashant1879",
+  "license": "MIT",
+  "type": "module",
+  "keywords": [ 
+    "api",
+    "WhatsappApi",
+    "ChatGPT",
+    "whatsappchatgpt",
+    "puppeteer",
+    "OpenAI",
+    "chatbot",
+    "whatsapppbot"
+   ],
+  "dependencies": {
+    "chatgpt": "^4.2.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.0",
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^19.6.3",
+    "puppeteer-core": "^19.6.3",
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.16.6"
+  }
+}
